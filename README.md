@@ -7,4 +7,4 @@ Under the hood, `reactotron-react` uses module import and file extensions to sel
 ## Recommend
 Watch this amazing talk leland richardson
 
-[![thumbnail](https://raw.githubusercontent.com/tanhauhau/reactotron-react/master/img.png)](https://www.youtube.com/watch?v=JaRtmgaNZos)
+[![thumbnail](https://raw.githubusercontent.com/tanhauhau/reactotron-react/master/thumbnail.png)](https://www.youtube.com/watch?v=JaRtmgaNZos)
