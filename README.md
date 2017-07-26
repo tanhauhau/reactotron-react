@@ -3,3 +3,7 @@
 
 If you are writing universal app for both web and native, and wonder whether to import `reactotron-react-native` or `reactotron-react-js`, import `reactotron-react` then.
 Under the hood, `reactotron-react` uses module import and file extensions to selectively import `reactotron-react-native` or `reactotron-react-js` based on the platform you are running on.
+
+## Recommend
+Watch this amazing talk leland richardson
+[![thumbnail](https://raw.githubusercontent.com/tanhauhau/reactotron-react/master/img.png)](https://www.youtube.com/watch?v=JaRtmgaNZos)
